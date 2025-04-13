@@ -1,0 +1,37 @@
+.payment-page {
+    max-width: 400px;
+    margin: 60px auto;
+    padding: 2rem;
+    background: #f9f9f9;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .payment-page h2 {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    color: #222;
+  }
+  
+  .payment-page p {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    color: #555;
+  }
+  
+  .payment-page button {
+    background-color: #08c;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .payment-page button:hover {
+    background-color: #0077b6;
+  }
+  

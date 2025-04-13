@@ -1,0 +1,46 @@
+.product-card {
+    padding: 20px;
+    border-radius: 16px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 400px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .product-card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .product-card p {
+    font-size: 16px;
+    color: #444;
+  }
+  
+  .product-card ul {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    margin: 15px 0;
+  }
+  
+  .product-card button {
+    padding: 10px 20px;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .fee-note {
+    color: #aaa;            /* lighter gray for a more faded look */
+    font-size: 13px;        /* slightly smaller */
+    margin-top: -8px;
+    margin-bottom: 10px;
+    font-style: italic;     /* optional: gives it a softer tone */
+  }
+  
+  
